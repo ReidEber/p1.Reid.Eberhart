@@ -7,4 +7,4 @@ Then there are the keyholes which take up large amounts of space instead of in t
 You may also notice the alarm button is immediately below the door open button which makes it a big issue if someones finger were to slip while pushing a button or if a person isn't paying attention which is fairly common. This could cause an unneccessary alarm to occur when the button would be better off placed elsewhere.<br>
 While the issues aren't necessarily completely intrusive they are still issues that could be improved on<br>
 <br><br>
-![Image (3)](https://user-images.githubusercontent.com/114603576/192915799-f39da6b0-5c2f-4580-a3af-1150e4631c11.jpeg =130x130)
+<img src ="https://user-images.githubusercontent.com/114603576/192915799-f39da6b0-5c2f-4580-a3af-1150e4631c11.jpeg" width = "100" height = "100">
